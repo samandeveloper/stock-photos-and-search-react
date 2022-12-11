@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stock-photos-and-search-react/static/css/main.e58eea65.chunk.css",
+    "main.js": "/stock-photos-and-search-react/static/js/main.a9ebdb7d.chunk.js",
+    "main.js.map": "/stock-photos-and-search-react/static/js/main.a9ebdb7d.chunk.js.map",
+    "runtime-main.js": "/stock-photos-and-search-react/static/js/runtime-main.f61c7c04.js",
+    "runtime-main.js.map": "/stock-photos-and-search-react/static/js/runtime-main.f61c7c04.js.map",
+    "static/js/2.f9fac789.chunk.js": "/stock-photos-and-search-react/static/js/2.f9fac789.chunk.js",
+    "static/js/2.f9fac789.chunk.js.map": "/stock-photos-and-search-react/static/js/2.f9fac789.chunk.js.map",
+    "index.html": "/stock-photos-and-search-react/index.html",
+    "precache-manifest.ca42b2565243bbcd813df87f54eee4b6.js": "/stock-photos-and-search-react/precache-manifest.ca42b2565243bbcd813df87f54eee4b6.js",
+    "service-worker.js": "/stock-photos-and-search-react/service-worker.js",
+    "static/css/main.e58eea65.chunk.css.map": "/stock-photos-and-search-react/static/css/main.e58eea65.chunk.css.map",
+    "static/js/2.f9fac789.chunk.js.LICENSE.txt": "/stock-photos-and-search-react/static/js/2.f9fac789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61c7c04.js",
+    "static/js/2.f9fac789.chunk.js",
+    "static/css/main.e58eea65.chunk.css",
+    "static/js/main.a9ebdb7d.chunk.js"
+  ]
+}
